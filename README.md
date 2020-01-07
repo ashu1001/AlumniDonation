@@ -10,4 +10,4 @@ the number of students enrolled divided by the total number of faculty. Finally,
  a donation to the university.
  
  The url for the data is:
-"https://bgreenwell.github.io/uc-bana7052/data/alumni.csv"
+https://bgreenwell.github.io/uc-bana7052/data/alumni.csv
